@@ -1,17 +1,6 @@
 import java.util.Scanner;
 
-/**
- * CS312 Assignment 10.
- *
- * On my honor, Sunny Patel, this programming assignment is my own work and I have
- * not shared my solution with any other student in the class.
- *
- *  email address: sunnypatel2000@utexas.edu
- *  UTEID: sgp736
- *  Section 5 digit ID: 50291
- *  Grader name: Shreyas
- *  Number of slip days used on this assignment: 0
- *
+/*
  * Program that allows two people to play Connect Four.
  */
 
